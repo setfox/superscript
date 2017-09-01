@@ -1,5 +1,5 @@
 ===DESIGN===
-- needs professional-quality audio/image hosting
+- needs professional-quality image hosting (play button)
 - pages are not randomized
 - music is not randomized (separately from pages)
 - randomization is not stored per user (to prevent page duplication)
