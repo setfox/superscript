@@ -13,6 +13,8 @@
 -- make temp mockup: 3 links, no menu -- implement menu later
 -- donate page could include merch sales 
 --- i.e. unrewritable USB of full project, listed as "SOLD OUT" until content is finalized
+- audio doesn't play on mobile
+- mobile display offers "make page mobile-friendly" dialog which inverts the color palette, how do i prevent this?
 
 ===CONTENT===
 - this is the first draft of the very beginning of an ambitious project, and may not resemble the finished project.
