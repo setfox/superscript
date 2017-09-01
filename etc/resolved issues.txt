@@ -1,1 +1,5 @@
-- moved hosting to
+- moved audio hosting to kiwi6
+- page template finished
+- numbering pages with random number to avoid an implicit chronology
+-- 0xx for under 100 pages, so it can go up to 999 without renumbering 
+-- this also creates an implicit chronology, but it's weaker and more interesting
