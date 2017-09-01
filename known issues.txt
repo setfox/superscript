@@ -8,6 +8,11 @@
 - a nice smoky gradient would be an improvement over a blank background
 - animated page transitions are not yet implemented
 - i do not yet own an acceptable custom domain name
+- needs donate button - professional/domain hosting is probably $50-100/yr
+- pages need menu button (separate pages: about project, about author, donate) 
+-- make temp mockup: 3 links, no menu -- implement menu later
+-- donate page could include merch sales 
+--- i.e. unrewritable USB of full project, listed as "SOLD OUT" until content is finalized
 
 ===CONTENT===
 - this is the first draft of the very beginning of an ambitious project, and may not resemble the finished project.
