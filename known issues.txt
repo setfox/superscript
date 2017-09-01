@@ -1,0 +1,13 @@
+===DESIGN===
+- needs professional-quality audio/image hosting
+- pages are not randomized
+- music is not randomized (separately from pages)
+- randomization is not stored per user (to prevent page duplication)
+- there are no audio controls (play/pause, volume up/down)
+- i have not finished uploading pt1 (~8 pages)
+- a nice smoky gradient would be an improvement over a blank background
+- animated page transitions are not yet implemented
+
+===CONTENT===
+- this is the first draft of the very beginning of an ambitious project, and may not resemble the finished project.
+- audio has been mastered for traditional release, and needs to be revised to loop properly. 
