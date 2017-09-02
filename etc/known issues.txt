@@ -15,6 +15,9 @@
 --- i.e. unrewritable USB of full project, listed as "SOLD OUT" until content is finalized
 - audio doesn't play on mobile
 - mobile display offers "make page mobile-friendly" dialog which inverts the color palette, how do i prevent this?
+- ideally the frontpage music should continue playing through the first page, then it switches for pg2
+- audio needs to fade out when next is clicked
+
 
 ===CONTENT===
 - this is the first draft of the very beginning of an ambitious project, and may not resemble the finished project.
