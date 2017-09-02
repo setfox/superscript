@@ -17,6 +17,7 @@
 - mobile display offers "make page mobile-friendly" dialog which inverts the color palette, how do i prevent this?
 - ideally the frontpage music should continue playing through the first page, then it switches for pg2
 - audio needs to fade out when next is clicked
+- circular audio play bar?
 
 
 ===CONTENT===
