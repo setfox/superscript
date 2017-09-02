@@ -18,6 +18,9 @@
 - ideally the frontpage music should continue playing through the first page, then it switches for pg2
 - audio needs to fade out when next is clicked
 - circular audio play bar?
+- if the menu was a frontpage popup, it could replace the need for the frontpage music to continue to the first page
+-- this means all menu content should be short enough to not scroll
+- make menu & playbar mockups
 
 
 ===CONTENT===
