@@ -1,28 +1,28 @@
+===PRIORITY===
+- pages not randomized
+- finish uploading pt1
+- make audio edits for looping
+- there are no audio controls (play/pause, volume up/down)
+- audio needs to fade out when next is clicked
+- menu
+
 ===DESIGN===
 - needs professional-quality image hosting (play button)
-- pages are not randomized
 - music is not randomized (separately from pages)
 - randomization is not stored per user (to prevent page duplication)
-- there are no audio controls (play/pause, volume up/down)
-- i have not finished uploading pt1 (~8 pages)
-- a nice smoky gradient would be an improvement over a blank background
-- homepage needs animated smoke/fog/haze
-- animated page transitions are not yet implemented
-- i do not yet own an acceptable custom domain name
-- needs donate button - professional/domain hosting is probably $50-100/yr
-- pages need menu button (separate pages: about project, about author, donate) 
--- make temp mockup: 3 links, no menu -- implement menu later
--- donate page could include merch sales 
---- i.e. unrewritable USB of full project, listed as "SOLD OUT" until content is finalized
-- audio doesn't play on mobile
-- mobile display offers "make page mobile-friendly" dialog which inverts the color palette, how do i prevent this?
 - ideally the frontpage music should continue playing through the first page, then it switches for pg2
-- audio needs to fade out when next is clicked
-- circular audio play bar?
-- if the menu was a frontpage popup, it could replace the need for the frontpage music to continue to the first page
--- this means all menu content should be short enough to not scroll
-- make menu & playbar mockups
-
+- pages need menu button
+- if the menu was a lightbox popup, it could replace the need for the frontpage music to continue to the first page
+-- the same lightbox could be accessible from each page, so no need to return to the homepage
+-- ~5 links on a bar at the top, which persists for each menu page
+-- menu pages: about project, about author, page list, music list, donate/merch (USB/bandcamp link)
+--- music & page lists should be editable checklists that indicate what has already been viewed or heard 
+- a smoky gradient, possibly animated, would be an improvement over a blank background
+- animated page transitions are not yet implemented
+- i do not own an acceptable domain name
+- audio doesn't play on mobile
+- mobile display offers "make page mobile-friendly" dialog which inverts the color palette
+- circular audio play bar
 
 ===CONTENT===
 - this is the first draft of the very beginning of an ambitious project, and may not resemble the finished project.
