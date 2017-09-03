@@ -1,3 +1,4 @@
+- made circular playbar mockup
 - moved audio hosting to kiwi6
 - page template finished
 - numbering pages with random number to avoid an implicit chronology
