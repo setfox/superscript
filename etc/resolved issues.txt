@@ -1,3 +1,5 @@
+- pt1 is now wholly uploaded
+- first attempt at randomization implemented
 - made circular playbar mockup
 - moved audio hosting to kiwi6
 - page template finished
