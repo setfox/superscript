@@ -1,3 +1,19 @@
+<script type="text/javascript">
+function nextlink(){
+    var myrandom=Math.round(Math.random()*6)
+    var links=new Array()
+    links[0] = "https://setfox.github.io/time/text/page079.html";
+    links[1] = "https://setfox.github.io/time/text/page058.html";
+    links[2] = "https://setfox.github.io/time/text/page045.html";
+    links[3] = "https://setfox.github.io/time/text/page083.html";
+    links[4] = "https://setfox.github.io/time/text/page014.html";
+    links[5] = "https://setfox.github.io/time/text/page037.html";
+    links[6] = "https://setfox.github.io/time/text/page096.html";
+ 
+    window.location=links[myrandom]
+}
+</script>
+
 <!DOCTYPE html>
   <html>
     <head>
@@ -55,10 +71,9 @@
     <br>
     <center>
       <p>
-        <a href="https://setfox.github.io/time/text/page045.html">
-          <img src="https://68.media.tumblr.com/bff9aeba34ede8e3fc37b50643571ecf/tumblr_ovkaref7h91qj64iio1_1280.gif"
-               height="128" width="128">
-        </a>
+        <form>
+          <input type="button" value="next page" onClick="nextlink()">
+        </form>
       </p>
     </center>
   </body>
