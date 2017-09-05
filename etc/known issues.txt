@@ -1,15 +1,14 @@
 ===PRIORITY===
-- pages not randomized
-- finish uploading pt1
+- randomization duplicates, and favors lower array elements
 - make audio edits for looping
 - there are no audio controls (play/pause, volume up/down)
 - audio needs to fade out when next is clicked
 - menu
 
 ===DESIGN===
+- re-implement animated next button using javascript somehow
 - needs professional-quality image hosting (play button)
 - music is not randomized (separately from pages)
-- randomization is not stored per user (to prevent page duplication)
 - ideally the frontpage music should continue playing through the first page, then it switches for pg2
 - pages need menu button
 - if the menu was a lightbox popup, it could replace the need for the frontpage music to continue to the first page
@@ -19,6 +18,7 @@
 --- music & page lists should be editable checklists that indicate what has already been viewed or heard 
 - a smoky gradient, possibly animated, would be an improvement over a blank background
 - animated page transitions are not yet implemented
+- the background gradient could visually overlap to white or gray, or to a cloud, or a loading animation, for page transitions
 - i do not own an acceptable domain name
 - audio doesn't play on mobile
 - mobile display offers "make page mobile-friendly" dialog which inverts the color palette
